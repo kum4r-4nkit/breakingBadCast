@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+A react app on one of my favorite shows of all time "Breaking Bad" using api "https://breakingbadapi.com/".
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+see it live at https://clever-bose-0bdb1d.netlify.app/
+
+
 
 ## Available Scripts
 
