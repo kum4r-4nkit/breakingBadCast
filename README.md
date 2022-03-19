@@ -1,3 +1,5 @@
+## Breaking Bad Cast
+
 A react app on one of my favorite shows of all time "Breaking Bad" using api "https://breakingbadapi.com/".
 
 see it live at https://clever-bose-0bdb1d.netlify.app/
